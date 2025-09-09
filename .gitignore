@@ -1,7 +1,1 @@
-# Node modules
-
 node_modules/
-dist/
-.cache/
-.parcel-cache/
-
