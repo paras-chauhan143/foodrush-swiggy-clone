@@ -41592,6 +41592,6 @@ $RefreshReg$(_c, "Checkout");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"aIW4F","react-redux":"7ioo7","react-router":"7kvpQ","@parcel/transformer-js/src/esmodule-helpers.js":"790pT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"fhSsr","../Stored/CartSlicer":"gX8Jl"}]},["hhRun","jjDYk"], "jjDYk", "parcelRequire94c2", {}, "./", "/", "http://localhost:5700")
+},{"react/jsx-dev-runtime":"aIW4F","react-redux":"7ioo7","react-router":"7kvpQ","@parcel/transformer-js/src/esmodule-helpers.js":"790pT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"fhSsr","../Stored/CartSlicer":"gX8Jl"}]},["hhRun","jjDYk"], "jjDYk", "parcelRequire94c2", {}, "./", "/", "http://localhost:5677")
 
 //# sourceMappingURL=Day20.27cf2f53.js.map
