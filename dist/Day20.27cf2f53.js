@@ -160,11 +160,11 @@
       });
     }
   }
-})({"hhRun":[function(require,module,exports,__globalThis) {
+})({"fA0c0":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
-var HMR_SERVER_PORT = 5700;
+var HMR_SERVER_PORT = 4000;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
@@ -41153,7 +41153,7 @@ function RestHeader() {
     _s();
     const counter = (0, _reactRedux.useSelector)((state)=>state.cartslice.count);
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        className: "container w-[80%] mx-auto py-4 px-8 bg-gray-200 text-5xl flex justify-between items-center",
+        className: "container w-[80%] mx-auto mt-2 py-4 px-8 bg-gray-200 text-5xl flex justify-between items-center rounded-xl",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41592,6 +41592,6 @@ $RefreshReg$(_c, "Checkout");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"aIW4F","react-redux":"7ioo7","react-router":"7kvpQ","@parcel/transformer-js/src/esmodule-helpers.js":"790pT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"fhSsr","../Stored/CartSlicer":"gX8Jl"}]},["hhRun","jjDYk"], "jjDYk", "parcelRequire94c2", {}, "./", "/", "http://localhost:5677")
+},{"react/jsx-dev-runtime":"aIW4F","react-redux":"7ioo7","react-router":"7kvpQ","@parcel/transformer-js/src/esmodule-helpers.js":"790pT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"fhSsr","../Stored/CartSlicer":"gX8Jl"}]},["fA0c0","jjDYk"], "jjDYk", "parcelRequire94c2", {}, "./", "/", "http://localhost:4000")
 
 //# sourceMappingURL=Day20.27cf2f53.js.map
